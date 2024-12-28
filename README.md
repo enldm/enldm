@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @enldm
 - 👀 I’m interested in H5 and python
-- 🌱 I’m currently learning to copy code
-- 💞️ I’m looking for a job
+- 🌱 I’m currently learning C#
+- 💞️ I’m looking for a trip
 
 <!---
 enldm/enldm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
